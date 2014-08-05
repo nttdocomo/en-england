@@ -5,14 +5,17 @@
 en-england!/leagues
 
 # - Teams
-en-england!/teams_eng
-en-england!/teams_eng_x
-en-england!/teams_wal
+en-england!/clubs_eng
+en-england!/clubs_eng_x
+en-england!/clubs_wal
 
 
 # - Fixtures
 
-en-england!/2012_13/pl
-en-england!/2013_14/pl
-en-england!/2014_15/pl
+en-england!/2012-13/1-premierleague-i
+en-england!/2012-13/1-premierleague-ii
+en-england!/2013-14/1-premierleague-i
+en-england!/2013-14/1-premierleague-ii
+en-england!/2014-15/1-premierleague-i
+en-england!/2014-15/1-premierleague-ii
 
