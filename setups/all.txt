@@ -12,10 +12,7 @@ en-england!/clubs_wal
 
 # - Fixtures
 
-en-england!/2012-13/1-premierleague-i
-en-england!/2012-13/1-premierleague-ii
-en-england!/2013-14/1-premierleague-i
-en-england!/2013-14/1-premierleague-ii
-en-england!/2014-15/1-premierleague-i
-en-england!/2014-15/1-premierleague-ii
+en-england!/2012-13/1-premierleague
+en-england!/2013-14/1-premierleague
+en-england!/2014-15/1-premierleague
 
