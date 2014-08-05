@@ -1,6 +1,7 @@
 #########
 # Teams
 
-en-england!/teams_eng
-en-england!/teams_wal
+en-england!/clubs_eng
+en-england!/clubs_eng_x
+en-england!/clubs_wal
 
